@@ -11,7 +11,7 @@
 
 <img align="right" alt="cat-coding-gif" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120" />
 
-Eu sou **Henrique Cassiano**, um desenvolvedor apaixonado por tecnologia e aprendizado contínuo. Estou cursando **Engenharia de Software**, com foco em **Desenvolvimento Back End**.
+Eu sou **Henrique Cassiano**, um desenvolvedor apaixonado por tecnologia e aprendizado contínuo. Estou cursando **Engenharia de Software** e **Desenvolvimento de Sistema**, com foco em **Desenvolvimento Back End**.
 
 Sou movido por desafios e adoro transformar ideias em soluções práticas com código. Sempre buscando evolução técnica e pessoal! 🚀
 
