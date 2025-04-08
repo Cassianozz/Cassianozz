@@ -59,9 +59,5 @@ Sou movido por desafios e adoro transformar ideias em soluções práticas com c
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-</div>
-
 <br>
 <p align="center"><i>Obrigado pela visita! ❤️</i></p>
